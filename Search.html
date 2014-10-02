@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+
+<html lang="en-US">
+<head>
+    <title>Advanced Search</title>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width">
+    <meta name="description" content="This is a personal site" />
+    <meta name="keywords" content="Software Developer, C++, Java, Programming" />
+    <meta name="author" content="Parth Shah" />
+    <meta name="robots" content="index, follow" />
+    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet" />
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css' />
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+</head>
+
+<body>
+    <header align = "center">
+        <img alt="logo" src="./Images/Logo.png" width="256"/>
+    </header>
+    <nav align = "center">
+        <a href="Register.html">Register</a>
+        |
+        <a href="index.html">Search</a>
+    </nav>
+    
+    <form align="center" style="margin: 5px; padding: 5px;">
+        <p><label for"Recipe">Recipe Name:</label>
+        <input list = "RecipeName" type="text" placeholder="Recipe name..." id="Recipe" name="Recipe" autofocus>
+            <datalist id="RecipeName">
+                <option lable="Hello"value="Hi">
+                <option lable="Na"value="No">
+                <option lable="Ha"value="Yes">
+                <option lable="Kem"value="Why">
+                <option lable="Su"value="Sho">
+                <option lable="Kon"value="Who">
+                <option lable=""value="">
+            </datalist>
+        </p>
+        
+        <p><label for"Description">Description:</label>
+        <input list = "DescriptionName" type="text" placeholder="Desctiption..." id="Description" name="Description" autofocus>
+            <datalist id="DescriptionName">
+                <option lable="Hello"value="Hi">
+                <option lable="Na"value="No">
+                <option lable="Ha"value="Yes">
+                <option lable="Kem"value="Why">
+                <option lable="Su"value="Sho">
+                <option lable="Kon"value="Who">
+                <option lable=""value="">
+            </datalist>
+        </p>
+        
+        <p><label for"Ingredients">Ingredients:</label>
+        <input list = "IngredientsName" type="text" placeholder="Ingredient name..." id="Ingredients" name="Ingredients" autofocus>
+            <datalist id="IngredientsName">
+                <option lable="Hello"value="Hi">
+                <option lable="Na"value="No">
+                <option lable="Ha"value="Yes">
+                <option lable="Kem"value="Why">
+                <option lable="Su"value="Sho">
+                <option lable="Kon"value="Who">
+                <option lable=""value="">
+            </datalist>
+        </p>
+        
+        <p><label for"Author">Author:</label>
+        <input list = "AuthorName" type="text" placeholder="Author name..." id="Author" name="Author" autofocus>
+            <datalist id="AuthorName">
+                <option lable="Hello"value="Hi">
+                <option lable="Na"value="No">
+                <option lable="Ha"value="Yes">
+                <option lable="Kem"value="Why">
+                <option lable="Su"value="Sho">
+                <option lable="Kon"value="Who">
+                <option lable=""value="">
+            </datalist>
+        </p>
+        
+        <p><label for"minRating">Min Rating</label>
+            <input type="number" name="minRating" min="0" max="5">
+            
+            <label for"maxRating">Max Rating</label>
+            <input type="number" name="maxRating" min="0" max="5">           
+        </p>
+        
+        <p><label for"minRC">Min Review Count</label>
+            <input type="number" name="minRC" min="0" max="5">
+            
+            <label for"maxRC">Max Review Count</label>
+            <input type="number" name="maxRC" min="0" max="5">           
+        </p>
+        
+        <p><label for"Website">Website:</label>
+        <input list = "WebsiteName" type="text" placeholder="Website name..." id="Website" name="Website" autofocus>
+            <datalist id="WebsiteName">
+                <option lable="Food"value="www.food.com">
+                <option lable="Allrecipe"value="www.allrecipe.com">
+            </datalist>
+        </p>
+        
+        <input type="submit"value="Search">
+    </form>
+    
+    <footer align="center">
+        <nav align = "center">
+            <a href="Register.html">Register</a>
+            |
+            <a href="index.html">Search</a>
+        </nav>
+        <p>
+            I will mark you with red pen if you copy my stuff! 
+        </p>
+    </footer>
+</body>
+</html>
