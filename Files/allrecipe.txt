@@ -1,0 +1,269 @@
+http://allrecipes.com/Recipe/Teenas-Spicy-Pesto-Chicken-and-Pasta/Detail.aspx
+  name: Teena's Spicy Pesto Chicken and Pasta
+    author:LAGIRL
+    description:"A spicy chicken and pesto pasta dish that's easy to adjust to any heat level. I created it after eating a similar dish at a Santa Monica restaurant, and it's one of my favorites. Serve with additional grated Parmesan, if desired. As an option, it's delicious with creamy goat cheese stirred in at the end."
+    category:
+    ingredients:
+      1 (16 ounce) package uncooked farfalle (bow tie) pasta
+      3 tablespoons olive oil
+      1 tablespoon hot chile paste (such as sambal oelek)
+      1 pound skinless, boneless chicken breast halves - cut into 1 inch pieces
+      6 tablespoons prepared basil pesto
+      1/2 cup grated Parmesan cheese
+      1/2 cup chopped cilantro
+    cooking method:
+    recipe cuisine:
+    recipe instructions:
+      Bring a large pot of lightly salted water to a boil. Place farfalle pasta in the pot, cook for 8 to 10 minutes, until al dente, and drain. Heat the olive oil in a large skillet over medium heat. Mix in the chile paste and chicken. Cook and stir chicken 10 minutes, or until evenly browned and juices run clear. Toss the cooked farfalle, pesto, Parmesan cheese, and cilantro into the skillet, and continue cooking just until heated through. Kitchen-Friendly View
+    rating count:264
+    overall rating:4.583548
+    total time:PT40M
+    prep time:PT15M
+    cook time:PT25M
+    reviews:
+      author: MBKRH(5.0)      author: chibi chef(3.0)      author: Rapunzel(4.0)      author: Jennifer(5.0)      author: Amanda P.(5.0)      author: lvs2ckinwi(4.0)      author: Bruce(5.0)      author: BELVEAL(5.0)
+http://allrecipes.com/Recipe/Baked-Chicken-Nuggets/Detail.aspx?soid=recs_recipe_1
+  name: Baked Chicken Nuggets Baked Chicken Nuggets
+    author:Teresa
+    description:See how to make a tasty appetizer that’s also a real kid-pleaser.
+    category:
+    ingredients:
+      3 skinless, boneless chicken breasts
+      1 cup Italian seasoned bread crumbs
+      1/2 cup grated Parmesan cheese
+      1 teaspoon salt
+      1 teaspoon dried thyme
+      1 tablespoon dried basil
+      1/2 cup butter, melted
+    cooking method:
+    recipe cuisine:
+    recipe instructions:
+      Preheat oven to 400 degrees F (200 degrees C). Cut chicken breasts into 1 1/2-inch sized pieces. In a medium bowl, mix together the bread crumbs, cheese, salt, thyme and basil. Mix well. Put melted butter in a bowl or dish for dipping. Dip chicken pieces into the melted butter first, then coat with the breadcrumb mixture. Place the well-coated chicken pieces on a lightly greased cookie sheet in a single layer, and bake in the preheated oven for 20 minutes. Kitchen-Friendly View
+    rating count:980
+    overall rating:4.476158
+    total time:PT40M
+    prep time:PT20M
+    cook time:PT20M
+    reviews:
+      author: RESALEAPPAREL(5.0)      author: e&msmom(2.0)      author: ALETA14(5.0)      author: PBAILEN(5.0)      author: What a Dish!(5.0)      author: BIANKAT(5.0)      author: awesome in tummy(5.0)      author: jifflee(5.0)
+http://allrecipes.com/Recipe/Crispy-Rosemary-Chicken-and-Fries/Detail.aspx?soid=recs_recipe_2
+  name: Crispy Rosemary Chicken and Fries Crispy Rosemary Chicken and Fries
+    author:SANDY WITEK
+    description:A complete, one-pan meal that’s in the oven in just 15 minutes.
+    category:
+    ingredients:
+      8 chicken thighs
+      6 small red potatoes, quartered
+      1/2 cup extra-virgin olive oil, or as needed
+      1 tablespoon chopped fresh rosemary
+      1 1/2 teaspoons chopped fresh oregano
+      1 1/2 teaspoons garlic powder
+      salt and pepper to taste
+    cooking method:
+    recipe cuisine:
+    recipe instructions:
+      Preheat the oven to 375 degrees F (190 degrees C). Place chicken and potatoes into a large bowl. Pour olive oil over them, and stir to coat. Scatter the chicken and potato pieces in a large baking dish, or cookie sheet with sides. Sprinkle with rosemary, oregano, garlic powder, salt and pepper. Bake for 1 hour in the preheated oven, uncovered. Baste during the last 15 minutes for extra crispness. Kitchen-Friendly View
+    rating count:735
+    overall rating:4.378846
+    total time:PT1H15M
+    prep time:PT15M
+    cook time:PT1H
+    reviews:
+      author: MARKANDDEEA(5.0)      author: Nandabear(3.0)      author: tkdd25(4.0)      author: RedWings#1(5.0)      author: momoftwo(5.0)      author: Jenny(5.0)      author: Mrs. Toast(5.0)      author: Kelly(4.0)
+http://allrecipes.com/Recipe/Brown-Sugar-Meatloaf/Detail.aspx?soid=recs_recipe_3
+  name: Brown Sugar Meatloaf Brown Sugar Meatloaf
+    author:tangastar
+    description:See how to make a 5-star meatloaf that’s tangy and slightly sweet.
+    category:
+    ingredients:
+      1/2 cup packed brown sugar
+      1/2 cup ketchup
+      1 1/2 pounds lean ground beef
+      3/4 cup milk
+      2 eggs
+      1 1/2 teaspoons salt
+      1/4 teaspoon ground black pepper
+      1 small onion, chopped
+      1/4 teaspoon ground ginger
+      3/4 cup finely crushed saltine cracker crumbs
+    cooking method:
+    recipe cuisine:
+    recipe instructions:
+      Preheat oven to 350 degrees F (175 degrees C). Lightly grease a 5x9 inch loaf pan. Press the brown sugar in the bottom of the prepared loaf pan and spread the ketchup over the sugar. In a mixing bowl, mix thoroughly all remaining ingredients and shape into a loaf. Place on top of the ketchup. Bake in preheated oven for 1 hour or until juices are clear. Kitchen-Friendly View
+    rating count:5526
+    overall rating:4.571846
+    total time:PT1H30M
+    prep time:PT20M
+    cook time:PT1H
+    reviews:
+      author: KIMAR(4.0)      author: judiann(1.0)      author: COOKINFORFUN(5.0)      author: H2OSMILES(5.0)      author: CHEFJOYLN(4.0)      author: Aimee(5.0)      author: SLJ6(5.0)      author: claudygirl(5.0)
+http://allrecipes.com/Recipe/Beef-Stew-VI/Detail.aspx?soid=recs_recipe_4
+  name: Beef Stew VI Beef Stew VI
+    author:Paula
+    description:See how to make a classic stovetop beef stew.
+    category:
+    ingredients:
+      2 pounds cubed beef stew meat
+      3 tablespoons vegetable oil
+      4 cubes beef bouillon, crumbled
+      4 cups water
+      1 teaspoon dried rosemary
+      1 teaspoon dried parsley
+      1/2 teaspoon ground black pepper
+      3 large potatoes, peeled and cubed
+      4 carrots, cut into 1 inch pieces
+      4 stalks celery, cut into 1 inch pieces
+      1 large onion, chopped
+      2 teaspoons cornstarch
+      2 teaspoons cold water
+    cooking method:
+    recipe cuisine:
+    recipe instructions:
+      In a large pot or dutch oven, cook beef in oil over medium heat until brown. Dissolve bouillon in water and pour into pot. Stir in rosemary, parsley and pepper. Bring to a boil, then reduce heat, cover and simmer 1 hour. Stir potatoes, carrots, celery, and onion into the pot. Dissolve cornstarch in 2 teaspoons cold water and stir into stew. Cover and simmer 1 hour more. Kitchen-Friendly View
+    rating count:1270
+    overall rating:4.591233
+    total time:PT2H20M
+    prep time:PT20M
+    cook time:PT2H
+    reviews:
+      author: Chuck(5.0)      author: SQUEAKYCHU(2.0)      author: SARAHSLATON(5.0)      author: freelancer(5.0)      author: Dawn Raegene Mendenhall Scott(5.0)      author: DEW44BEAR(5.0)      author: MEGMOMSTER(5.0)      author: NATPIE(5.0)
+http://allrecipes.com/Recipe/Taco-Casserole/Detail.aspx?soid=recs_recipe_5
+  name: Taco Casserole Taco Casserole
+    author:Debi Van Name
+    description:This cheesy, family favorite is the perfect weeknight casserole.
+    category:
+    ingredients:
+      1 pound lean ground beef
+      8 ounces macaroni
+      1/2 cup chopped onion
+      1 (10.75 ounce) can condensed tomato soup
+      1 (14.5 ounce) can diced tomatoes
+      1 (1.25 ounce) package taco seasoning mix
+      2 ounces shredded Cheddar cheese
+      2 ounces shredded Monterey Jack cheese
+      1 cup crushed tortilla chips
+      1/2 cup sour cream (optional)
+      1/4 cup chopped green onions
+    cooking method:
+    recipe cuisine:
+    recipe instructions:
+      Preheat oven to 350 degrees F (175 degrees C). Cook pasta in a large pot of boiling water until al dente. Drain. In a large skillet, cook and stir ground beef and chopped onion over medium heat until brown. Mix in tomato soup, diced tomatoes, and taco seasoning mix. Stir in pasta. Spoon beef mixture into a 9x13 inch baking dish. Sprinkle crumbled taco chips and grated cheese on top. Bake for 30 to 35 minutes, until the cheese is melted. Serve with chopped green onions and sour cream, if desired. Kitchen-Friendly View
+    rating count:576
+    overall rating:4.306804
+    total time:PT1H
+    prep time:PT25M
+    cook time:PT35M
+    reviews:
+      author: MRSDAVIS810(5.0)      author: Crystal S(3.0)      author: ARCELI6(5.0)      author: lefty chef(5.0)      author: KRANEY(5.0)      author: felcha(5.0)      author: newjan2(5.0)      author: smg(4.0)
+http://allrecipes.com/Recipe/Chicken-Stir-Fry-3/Detail.aspx?soid=recs_recipe_6
+  name: Chicken Stir-Fry Chicken Stir-Fry
+    author:KatieKS
+    description:A quick stir-fry that’s slightly sweet, slightly spicy and very veggie friendly.
+    category:
+    ingredients:
+      2 cups white rice
+      4 cups water
+      2/3 cup soy sauce
+      1/4 cup brown sugar
+      1 tablespoon cornstarch
+      1 tablespoon minced fresh ginger
+      1 tablespoon minced garlic
+      1/4 teaspoon red pepper flakes
+      3 skinless, boneless chicken breast halves, thinly sliced
+      1 tablespoon sesame oil
+      1 green bell pepper, cut into matchsticks
+      1 (8 ounce) can sliced water chestnuts, drained
+      1 head broccoli, broken into florets
+      1 cup sliced carrots
+      1 onion, cut into large chunks
+      1 tablespoon sesame oil
+    cooking method:
+    recipe cuisine:
+    recipe instructions:
+      Bring rice and water to a boil in a saucepan over high heat. Reduce heat to medium-low, cover, and simmer until rice is tender, and liquid has been absorbed, 20 to 25 minutes. Combine soy sauce, brown sugar, and corn starch in a small bowl; stir until smooth. Mix ginger, garlic, and red pepper into sauce; coat chicken with marinade and refrigerate for at least 15 minutes. Heat 1 tablespoon sesame oil in a large skillet over medium-high heat. Cook and stir bell pepper, water chestnuts, broccoli, carrots, and onion until just tender, about 5 minutes. Remove vegetables from skillet and keep warm. Remove chicken from marinade, reserving liquid. Heat 1 tablespoon sesame oil in skillet over medium-high heat. Cook and stir chicken until slightly pink on the inside, about 2 minutes per side; return vegetables and reserved marinade to skillet. Bring to a boil; cook and stir until chicken is no longer pink in the middle and vegetables are tender, 5 to 7 minutes. Serve over rice. Kitchen-Friendly View
+    rating count:179
+    overall rating:4.467533
+    total time:PT1H20M
+    prep time:PT30M
+    cook time:PT35M
+    reviews:
+      author: Mrs.A.VanScyoc(5.0)      author: emilio_linda(3.0)      author: BarbB(5.0)      author: PacificViking(5.0)      author: jenperk74(1.0)      author: Latimer Alder(4.0)      author: Amatybird(4.0)      author: hisarahm(4.0)
+http://allrecipes.com/Recipe/Butternut-Squash-Soup-II/Detail.aspx?soid=recs_recipe_7
+  name: Butternut Squash Soup II Butternut Squash Soup II
+    author:Maplebird
+    description:Showcase the delicious flavors of squash in this creamy, low-fat soup.
+    category:
+    ingredients:
+      2 tablespoons butter
+      1 small onion, chopped
+      1 stalk celery, chopped
+      1 medium carrot, chopped
+      2 medium potatoes, cubed
+      1 medium butternut squash - peeled, seeded, and cubed
+      1 (32 fluid ounce) container chicken stock
+      salt and freshly ground black pepper to taste
+    cooking method:
+    recipe cuisine:
+    recipe instructions:
+      Melt the butter in a large pot, and cook the onion, celery, carrot, potatoes, and squash 5 minutes, or until lightly browned. Pour in enough of the chicken stock to cover vegetables. Bring to a boil. Reduce heat to low, cover pot, and simmer 40 minutes, or until all vegetables are tender. Transfer the soup to a blender, and blend until smooth. Return to pot, and mix in any remaining stock to attain desired consistency. Season with salt and pepper. Kitchen-Friendly View
+    rating count:1062
+    overall rating:4.602206
+    total time:PT1H10M
+    prep time:PT25M
+    cook time:PT45M
+    reviews:
+      author: Alane(5.0)      author: Molly(3.0)      author: JINGSHI(5.0)      author: Krudith(5.0)      author: Mama Peek(4.0)      author: pinkgurl(5.0)      author: caily(5.0)      author: Momily(5.0)
+http://allrecipes.com/Recipe/Triple-Dipped-Fried-Chicken/Detail.aspx?soid=recs_recipe_8
+  name: Triple-Dipped Fried Chicken Triple Dipped Fried Chicken
+    author:QUIRKYIQ
+    description:See how to make the crispiest, tastiest homemade fried chicken ever.
+    category:
+    ingredients:
+      3 cups all-purpose flour
+      1 1/2 tablespoons garlic salt
+      1 tablespoon ground black pepper
+      1 tablespoon paprika
+      1/2 teaspoon poultry seasoning
+       
+      1 1/3 cups all-purpose flour
+      1 teaspoon salt
+      1/4 teaspoon ground black pepper
+      2 egg yolks, beaten
+      1 1/2 cups beer or water
+       
+      1 quart vegetable oil for frying
+      1 (3 pound) whole chicken, cut into pieces
+    cooking method:
+    recipe cuisine:
+    recipe instructions:
+      In one medium bowl, mix together 3 cups of flour, garlic salt, 1 tablespoon black pepper, paprika and poultry seasoning. In a separate bowl, stir together 1 1/3 cups flour, salt, 1/4 teaspoon pepper, egg yolks and beer. You may need to thin with additional beer if the batter is too thick. Heat the oil in a deep-fryer to 350 degrees F (175 degrees C). Moisten each piece of chicken with a little water, then dip in the dry mix. Shake off excess and dip in the wet mix, then dip in the dry mix once more. Carefully place the chicken pieces in the hot oil. Fry for 15 to 18 minutes, or until well browned. Smaller pieces will not take as long. Large pieces may take longer. Remove and drain on paper towels before serving. Kitchen-Friendly View
+    rating count:300
+    overall rating:4.344086
+    total time:PT50M
+    prep time:PT30M
+    cook time:PT20M
+    reviews:
+      author: AJsMama(5.0)      author: Jenifer(3.0)      author: Good Foods(5.0)      author: Judy(5.0)      author: Erin Hazen(5.0)      author: Josh(5.0)      author: MBC(4.0)      author: MrsRPM(5.0)
+http://allrecipes.com/Recipe/Baked-Apricot-Chicken/Detail.aspx?soid=recs_recipe_9
+  name: Baked Apricot Chicken
+    author:SHANG
+    description:"Simply delicious. Quick and easy recipe for the busy homemaker. Serve with rice if desired."
+    category:
+    ingredients:
+      12 chicken thighs
+      1 cup apricot preserves
+      1 cup French dressing
+      1 (1 ounce) package dry onion soup mix
+    cooking method:
+    recipe cuisine:
+    recipe instructions:
+      Preheat oven to 350 degrees F (175 degrees C). In a medium bowl combine the jam, dressing and soup mix. Mix together. Place chicken pieces in a 9x13 inch baking dish. Pour apricot mixture over chicken and bake uncovered in the preheated oven for 50 to 60 minutes. Kitchen-Friendly View
+    rating count:393
+    overall rating:4.411992
+    total time:
+    prep time:
+    cook time:
+    reviews:
+      author: BRACKY189(5.0)      author: maddysmom(3.0)      author: Shannon(5.0)      author: ANNIE222(5.0)      author: SCARLETT74(5.0)      author: ZIPORAHS(5.0)      author: BarbsBerry(5.0)      author: Mrs. Newman(4.0)
+Processed: 10
+

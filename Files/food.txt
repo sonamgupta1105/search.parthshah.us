@@ -1,0 +1,370 @@
+http://www.food.com/recipe/meatloaf-yes-virginia-there-is-a-great-meatloaf-54257
+  name: Yes, Virginia There is a Great Meatloaf
+    author:Nita Holleman
+    description:Absolutely delicious meatloaf and sauce! Those who claim they don't believe there can be such a thing as a great meatloaf will love this. Based on a meatloaf given to me by a dear friend, Virginia Strehl, Memphis, and Leesburg, Fla. Nita Holleman, 2000
+    category:
+      Meatloaf
+      Meat
+      North american
+      Low in...
+      Taste/mood
+      Roast
+      Oven
+      < 4 hours
+      Time to make
+      Equipment
+    ingredients:
+      1 1/2 lbs ground beef (ground shoulder roast is good)
+      1 slice bread (broken or chopped finely)
+      1 egg
+      1 small vidalia onions or 1 small type sweet onion, finely chopped
+      1 teaspoon table salt
+      1/4 teaspoon black pepper
+      4 tablespoons ketchup
+      1/2-2/3 cup whole milk or 1/2-2/3 cup half-and-half
+      4 tablespoons apple cider vinegar
+      2 -4 tablespoons dark brown sugar, packed firm (to taste)
+      1/2 cup ketchup
+    cooking method:
+    recipe cuisine:
+    recipe instructions:
+      1 Meatloaf: Combine meat loaf ingredients and place into a loaf baking dish. 2 Smooth out top. 3 Sauce: Combine sauce ingredients and pour on top and sides of meatloaf. 4 Bake at 350°F about 1 hour to 1 hour 15 minutes or until done. 5 ENJOY! 6 *The addition of 1 or 2 teaspoons of Kitchen Bouquet® makes this recipe very good. 7 **Recipe should be"plump" from the addition of the milk or Half & Half. 8 It should NOT be runny. 9 ***A second batch of sauce served hot is good to serve with the meatloaf. 10 Nita's Note: I note that some of you are using game meat such as deer -- Deer is a very DRY meat. It is wise to HAVE some fat added to the deer -- especially to ground deer. Maybe 25 % fat, ( I recommend 1 lb of ground venison, and 1/2 lb of deer sausage for fat content), otherwise your results will be poor. I don't know about some of the other game meat some are using. Please consult and expert. The recipe is delicious as it stands! Enjoy! Nita Holleman.
+    rating count:1074
+    overall rating:5.0
+    total time:PT1H20M
+    prep time:PT20M
+    cook time:PT1H
+    reviews:
+      author: Chef #670089(5.0)      author: thousandislandsgirl(5.0)      author: Marlene Segers(5.0)
+http://www.food.com/recipe/easy-coleslaw-dressing-186437
+  name: Easy Coleslaw Dressing
+    author:Aunt Willie
+    description:My mother-in-law gave me this recipe years ago and it is the one I make the most. Super easy. Halve the recipe to cover one bag of prepared slaw vegetables. Prep time does not include chill time.
+    category:
+      Salad dressings
+      < 15 mins
+      Beginner cook
+      Time to make
+      Easy
+    ingredients:
+      1 cup mayonnaise (low fat works well too)
+      2 tablespoons sugar (I've also used Splenda here)
+      2 tablespoons cider vinegar
+      2 teaspoons black pepper
+      1/2 teaspoon salt
+      1/4 teaspoon dry mustard
+      1/8 teaspoon celery seed
+      5 cups shredded coleslaw mix (cabbage, carrot, onion, bell pepper, etc.)
+    cooking method:
+    recipe cuisine:
+    recipe instructions:
+      1 Whisk together ingredients for dressing in a non-reactive (non-metal) bowl until sugar dissolves. 2 Toss with slaw vegetables of choice. 3 Refrigerate at least four hours. 4 Toss well before serving.
+    rating count:33
+    overall rating:4.5
+    total time:PT10M
+    prep time:PT10M
+    cook time:0S
+    reviews:
+      author: jake25(0.0)      author: bmcnichol(4.0)      author: Chef #1802598327(5.0)
+http://www.food.com/recipe/cornbread-109767
+  name: Cornbread
+    author:crazycookinmama
+    description:I love tasting different cornbread recipes, and I have to admit, I think this is the best that I've ever tasted. Usually I have to put tons of butter on it, because it's so dry and just doesn't have much taste to it, but this recipe is very moist, and you can eat it alone, it's got a great sweet taste to it. Try it...and let me know what you think. Thanks to Betty Crockers Big Red Cookbook for this great recipe.
+    category:
+      Flat Shaped breads
+      Breads
+      Toddler Friendly
+      Healthy
+      Kid Friendly
+      Brunch
+      < 60 mins
+      Time to make
+    ingredients:
+      1 cup milk
+      1/4 cup butter or 1/4 cup margarine, melted
+      1 large egg
+      1 1/4 cups yellow cornmeal or 1 1/4 cups white cornmeal or 1 1/4 cups blue cornmeal
+      1 cup all-purpose flour
+      1/2 cup sugar
+      1 tablespoon baking powder
+      1/2 teaspoon salt
+      you might want to reduce the sugar to 1/3 cup and use 2 egg
+    cooking method:
+    recipe cuisine:
+    recipe instructions:
+      1 Heat oven to 400³F. 2 Grease bottom and side or round pan, 9x1 1/2 inches, or square pan, 8x8x2 inches, with shortening. 3 Beat milk, butter and egg in large bowl with hand beater or wire whisk. 4 Stir in remaining ingredients all at once just until flour is moistened (batter will be lumpy). 5 Pour into pan. 6 Bake 20 to 25 minutes or until golden brown and toothpick inserted in center comes out clean. 7 Serve warm if desired.
+    rating count:147
+    overall rating:5.0
+    total time:PT35M
+    prep time:PT10M
+    cook time:PT25M
+    reviews:
+      author: Caryn Dalton(5.0)      author: Chef Treenie(5.0)      author: LonghornMama(5.0)
+http://www.food.com/recipe/microwave-chocolate-mug-brownie-349246
+  name: Microwave Chocolate Mug Brownie
+    author:Wheres_the_Beef?
+    description:This makes a delicious brownie for one in about a minute. I used a 1500 watt microwave. 60 seconds makes a molten center brownie. 75 seconds make a uniformly done brownie. Careful not to overcook.
+    category:
+      Dessert
+      Cookie & brownie
+      Microwave
+      < 15 mins
+      For 1 or 2
+      Beginner cook
+      Small appliance
+      Time to make
+      Easy
+      Equipment
+      Number of servings
+    ingredients:
+      2 tablespoons butter, melted
+      2 tablespoons water
+      1/4 teaspoon vanilla extract
+      1 dash salt
+      4 tablespoons granulated sugar
+      2 tablespoons unsweetened cocoa powder
+      4 tablespoons all-purpose flour
+    cooking method:
+    recipe cuisine:
+    recipe instructions:
+      1 In a 12 oz coffee mug, add water, butter, vanilla and dash of salt. Whisk well. 2 Add cocoa powder, whisk well. Add sugar, whisk well. Add flour, whisk well. 3 Microwave for 60 to 90 seconds. Center should be slightly molten. Careful not to overcook. 4 Enjoy with a spoon. Careful brownie will be hot.
+    rating count:117
+    overall rating:5.0
+    total time:PT2M
+    prep time:PT1M
+    cook time:PT1M
+    reviews:
+      author: keptinmylocket(5.0)      author: Candypawz(4.0)      author: HisPixie(5.0)
+http://www.food.com/recipe/best-oatmeal-cookies-54351
+  name: Best Oatmeal Cookies
+    author:Merrie Wold
+    description:This is a family favorite that I have been making for years. It's the most requested oatmeal cookie recipe I've ever made. I found it somewhere years ago, but have lost the source. The secret is soaking the raisins which makes all the difference.
+    category:
+      Drop cookies
+      Dessert
+      Cookie & brownie
+      Kid Friendly
+      Brown bag
+      Weeknight
+      Taste/mood
+      To go...
+      Oven
+      < 4 hours
+      Time to make
+      Equipment
+      Number of servings
+    ingredients:
+      3 eggs, well beaten
+      1 cup raisins
+      1 teaspoon vanilla
+      1 cup butter
+      1 cup brown sugar
+      1 cup white sugar
+      2 1/2 cups flour
+      1 teaspoon salt
+      1 teaspoon cinnamon
+      2 teaspoons baking soda
+      2 cups oatmeal
+      3/4 cup chopped pecans
+    cooking method:
+    recipe cuisine:
+    recipe instructions:
+      1 This is a very important first step that makes the cookie: combine eggs, raisins and vanilla and let stand for one hour. 2 Cream together butter and sugars. 3 Add flour, salt, cinnamon and soda and mix well. 4 Blend in egg-raisin mixture, oatmeal, and chopped nuts. 5 Dough will be stiff. 6 Drop by heaping teaspoons onto ungreased cookie sheet, or roll into balls and flatten slightly. 7 Bake at 350 degrees for 10 to 12 minutes or until lightly browned.
+    rating count:236
+    overall rating:5.0
+    total time:PT1H10M
+    prep time:PT1H
+    cook time:PT10M
+    reviews:
+      author: HeatherFeather(5.0)      author: Jan Harroun(5.0)      author: Budster(5.0)
+http://www.food.com/recipe/low-slow-oven-baked-ribs-super-simple-303245
+  name: Low & Slow Oven Baked Ribs - Super Simple!
+    author:JanuaryBride
+    description:This is truly the ONLY rib recipe you will ever need. Ribs simply don't get any better than this! You'll need a fork and knife to eat these, as they will FALL OFF THE BONE. . .tastier than you can imagine. And they couldn't be easier, just throw them in the oven and you are good to go. . .just make sure you have some of your favorite BBQ sauce on hand!
+    category:
+      Pork
+      Meat
+      High protein
+      High in...
+      Low in...
+      5 ingredients or less
+      Oven
+      Beginner cook
+      Easy
+      Equipment
+    ingredients:
+      2 racks pork baby back ribs (our favorite are baby back ribs, but this works well with St. Louis style ribs too)
+      1 cup barbecue sauce
+    cooking method:
+    recipe cuisine:
+    recipe instructions:
+      1 Preheat oven to 225 degrees. 2 Season your ribs with Dale's marinade, your favorite rib rub, grill seasoning, or simply salt and pepper. 3 Place ribs, meat side down, in baking dishes. 4 Cover the baking dishes with aluminum foil and place in the oven. 5 If you are using small baby back ribs, take out after 3.5 hours. If you are using regular baby back or St. Louis style ribs, then take out after 4 hours. 6 Drain off the drippings. Flip the ribs over using two spatulas (and an extra set of hands if you have them) so the meat side is up. Be careful, as they may be so tender they fall apart. 7 Put a layer of BBQ sauce on the ribs and return to the oven uncovered for an additional 20-30 minutes. 8 Remove from oven and serve them up with a side of potato salad and some baked beans.
+    rating count:68
+    overall rating:5.0
+    total time:PT4H20M
+    prep time:PT5M
+    cook time:PT4H15M
+    reviews:
+      author: Saginawman(5.0)      author: ElfiePoo(5.0)      author: esactress(5.0)
+http://www.food.com/recipe/marinated-cucumbers-onions-and-tomatoes-94964
+  name: Marinated Cucumbers, Onions, and Tomatoes
+    author:m0m
+    description:This recipe is from Womack House, a long ago country kitchen in Fulshear, TX. It tastes like summer!
+    category:
+      Onions
+      Vegetable
+      North american
+      Low protein
+      Low cholesterol
+      Low sat. fat
+      Free of...
+      Low in...
+      < 15 mins
+      Beginner cook
+      3 steps or less
+      Time to make
+      Easy
+    ingredients:
+      3 medium cucumbers, peeled and sliced 1/4 inch thick
+      1 medium onion, sliced and separated into rings
+      3 medium tomatoes, cut into wedges
+      1/2 cup vinegar
+      1/4 cup sugar
+      1 cup water
+      2 teaspoons salt
+      1 teaspoon fresh coarse ground black pepper
+      1/4 cup oil
+      1 teaspoon chopped fresh mint (optional)
+    cooking method:
+    recipe cuisine:
+    recipe instructions:
+      1 Combine all ingredients in a large bowl. 2 Toss well to mix. 3 Refrigerate at least 2 hours before serving.
+    rating count:49
+    overall rating:5.0
+    total time:PT15M
+    prep time:PT15M
+    cook time:0S
+    reviews:
+      author: lkm1952(5.0)      author: p00gJr(5.0)      author: reneeshort(5.0)
+http://www.food.com/recipe/deviled-eggs-48153
+  name: Deviled Eggs
+    author:Nurslinda
+    description:This recipe was my Mother's and she taught me to make them. My sons and their families always request these eggs for all family get-together dinners.
+    category:
+      Egg
+      Eggs/dairy
+      North american
+      Low in...
+      < 60 mins
+      Time to make
+      Easy
+      Number of servings
+      Presentation
+    ingredients:
+      6 large hard-boiled eggs
+      salt and black pepper
+      2 tablespoons Miracle Whip (I prefer Miracle Whip) or 2 tablespoons mayonnaise
+      1 teaspoon prepared yellow mustard
+      2 tablespoons sweet pickle relish
+      paprika
+    cooking method:
+    recipe cuisine:
+    recipe instructions:
+      1 Peel shells off cooled hard-boiled eggs; slice into halves lengthwise. 2 Remove yolks from whites and place in a small round bowl. 3 Mash yolks with a fork into fine pieces. 4 Add 2 heaping tablespoons Miracle Whip salad dressing, yellow mustard, sweet pickle relish, and salt and black pepper to taste. 5 Stir mixture until creamy. 6 Spoon mixture into a zip-lock sandwich bag; seal bag and snip off one corner of the bag. 7 Squeeze mixture out of corner of bag into egg white halves. 8 Sprinkle tops of filled deviled eggs with paprika. 9 Chill in refrigerator 1 to 2 hours or until cold before serving.
+    rating count:215
+    overall rating:5.0
+    total time:PT35M
+    prep time:PT15M
+    cook time:PT20M
+    reviews:
+      author: Ann Cecile(5.0)      author: grannyhoff(5.0)      author: Darlene Summers(5.0)
+http://www.food.com/recipe/fannie-farmers-classic-baked-macaroni-and-cheese-135350
+  name: Fannie Farmer's Classic Baked Macaroni & Cheese
+    author:- Carla -
+    description:To me Fannie Farmer's recipe is the only "real" Macaroni & Cheese. It's from my 1946 edition of "Fannie Farmer's Boston Cooking School Cookbook". With time on it's side - this recipe is hands down the best for traditional, homemade baked macaroni & cheese - comfort food. Please Note: If you use CHEAP CHEESE you will end up with a BLAND and FLAVORLESS DISH!
+    category:
+      One Dish meal
+      Elbow macaroni
+      Cheese
+      Eggs/dairy
+      Pasta, rice and grains
+      Northeastern u.s.
+      North american
+      High calcium
+      Kid Friendly
+      High in...
+      Potluck
+      Winter
+      Seasonal
+      Taste/mood
+      To go...
+      < 60 mins
+      Oven
+      Beginner cook
+      Served hot
+      Time to make
+      Easy
+      Equipment
+      Number of servings
+      Presentation
+    ingredients:
+      1 (8 ounce) package macaroni
+      4 tablespoons butter
+      4 tablespoons flour
+      1 cup milk
+      1 cup cream
+      1/2 teaspoon salt
+      fresh ground black pepper, to taste
+      2 cups cheddar cheese, shredded good quality
+      1/2 cup breadcrumbs, buttered
+    cooking method:
+    recipe cuisine:
+    recipe instructions:
+      1 Preheat oven to 400°F. 2 Cook and drain macaroni according to package directions; set aside. 3 In a large saucepan melt butter. 4 Add flour mixed with salt and pepper, using a whisk to stir until well blended. 5 Pour milk and cream in gradually; stirring constantly. 6 Bring to boiling point and boil 2 minutes (stirring constantly). 7 Reduce heat and cook (stirring constantly) 10 minutes. 8 Add shredded cheddar little by little and simmer an additional 5 minutes, or until cheese melts. 9 Turn off flame. 10 Add macaroni to the saucepan and toss to coat with the cheese sauce. 11 Transfer macaroni to a buttered baking dish. 12 Sprinkle with breadcrumbs. 13 Bake 20 minutes until the top is golden brown. 14 (You can also freeze this recipe in zip-lock bags for later use - once you have mixed the macaroni along with the cheese sauce allow to cool to room temperature before adding to your freezer - I generally pull it out the night before and allow macaroni and cheese to reach room temperature; I then add the macaroni and cheese to a buttered baking dish, sprinkle with bread crumbs and then bake for 20 to 30 minutes, until golden brown on top and bubbling.
+    rating count:712
+    overall rating:5.0
+    total time:PT40M
+    prep time:PT20M
+    cook time:PT20M
+    reviews:
+      author: jehaas(0.0)      author: Chef Hammer(4.0)      author: Firehousecook AKA Cap'n Jack(5.0)
+http://www.food.com/recipe/beths-melt-in-your-mouth-barbecue-ribs-oven-107786
+  name: Beth's Melt in Your Mouth Barbecue Ribs (Oven)
+    author:Not-2-Sweet
+    description:I almost didn't want to share this ribs recipe because this is one of the dishes that I make that keep my sons coming back home! These can be done with baby back or regular pork ribs. I have also made split chickens this way. The ribs are tender, moist and just slide off of the bone. I know that your family will love them just as much as my family does. I noticed that some are unable to find hickory smoked salt. You can use smoked paprika or just brush the ribs with liquid smoke before applying the rub. The smoke flavor is nice because it helps give the ribs a cooked-on-the-grill flavor. Also, the easiest way to remove the membrane is to work a spoon, or I use the tips of my kitchen shears, into the bottom center of the membrane, work it back and forth to form a "pocket," then I slide my thumbs in and work the membrane off from the center outward to the ends.
+    category:
+      Pork
+      Meat
+      Midwestern u.s.
+      North american
+      Heirloom/historical
+      Taste/mood
+      Broil/grill
+      Oven
+      Beginner cook
+      Served hot
+      < 4 hours
+      Time to make
+      Easy
+      Equipment
+      Presentation
+    ingredients:
+      4 lbs pork ribs
+      3/4 cup light brown sugar
+      1 teaspoon hickory smoke salt
+      1 tablespoon paprika
+      1 tablespoon garlic powder
+      1/2 teaspoon ground red pepper (optional)
+      2 cups of your favorite barbecue sauce (mine is Sweet Baby Ray)
+    cooking method:
+    recipe cuisine:
+    recipe instructions:
+      1 Preheat oven to 300 degrees f. 2 Peel off tough membrane that covers the bony side of the ribs. 3 Mix together the sugar and spices to make the rub. 4 Apply rub to ribs on all sides. 5 Lay ribs on two layers of foil, shiny side out and meaty side down. 6 Lay two layers of foil on top of ribs and roll and crimp edges tightly, edges facing up to seal. 7 Place on baking sheet and bake for 2-2 1/2 hours or until meat is starting to shrink away from the ends of the bone. 8 Remove from oven. 9 Heat broiler. 10 Cut ribs into serving sized portions of 2 or 3 ribs. 11 Arrange on broiler pan, bony side up. 12 Brush on sauce. 13 Broil for 1 or 2 minutes until sauce is cooked on and bubbly. 14 Turn ribs over. 15 Repeat on other side. 16 Alternately, you can grill the ribs on your grill to cook on the sauce.
+    rating count:428
+    overall rating:5.0
+    total time:PT3H15M
+    prep time:PT15M
+    cook time:PT3H
+    reviews:
+      author: rebecca93105_8841379(0.0)      author: Scout3699(5.0)      author: Chef #1103216(5.0)
+Processed: 10
