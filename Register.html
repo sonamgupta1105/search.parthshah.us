@@ -30,16 +30,16 @@
     </nav>
     <form align="center">
         <p><label for="firstName">First Name:</label>
-        <input type="(\A-z{2,})" name="firstName">
+        <input type="text" pattern="[A-Za-z]{2,}" name="firstName" required>
         </p>
         <p><label for="lastName">Last Name:</label>
-        <input type="text" name="lastName">
+        <input type="text" pattern="[A-Za-z]{2,}" name="lastName" required>
         </p>
         <p><label for="birthDay">Birthday:</label>
-        <input type="date" name="birthDay" max="2144-10-02" min="2001-10-01">
+        <input type="date" name="birthDay" max="2144-10-02" min="2001-10-01" required>
         </p>
         <p><label for="email">Email address:</label>
-        <input type="email" name="email">
+        <input type="email" name="email" required>
         </p>
         <p><label for="blogURL">Food Blog URL:</label>
         <input type="url" name="blogURL">
