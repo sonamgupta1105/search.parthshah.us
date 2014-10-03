@@ -13,51 +13,60 @@
     <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
         
         <style>
-            body{
-                font-family: 'Open Sans', sans-serif;
+        html, body {
+            height: 100%;
+            }
+        html {
+            display: table;
+            margin: auto;
+            }
+        body {
+            font-family: 'Open Sans', sans-serif;
+            display: table-cell;
+            vertical-align: middle;
             }
         </style>
 </head>
 
 <body>
-    <header align = "center">
+    <header>
         <img alt="logo" src="./Images/Logo.png" width="256"/>
     </header>
-    <nav align = "center">
+    <nav>
         <a href="Register.html">Register</a>
         |
         <a href="Search.html">Advanced Search</a>
     </nav>
     
-    <form align="center" style="margin: 5px; padding: 5px;">
-        <label for"SimpleSearch"></label>
+    <form >
+        <label for="SimpleSearch"></label>
         <input list = "Simple" type="text" placeholder="Type something..." id="SimpleSearch" name="SimpleSearch" autofocus>
             <datalist id="Simple">
-                <option lable="1"value="Yes, Virginia There is a Great Meatloaf">
-                <option lable="2"value="Easy Coleslaw Dressing">
-                <option lable="3"value="Cornbread">
-                <option lable="4"value="Microwave Chocolate Mug Brownie">
-                <option lable="5"value="Best Oatmeal Cookies">
-                <option lable="6"value="Low & Slow Oven Baked Ribs - Super Simple!">
-                <option lable="7"value="Marinated Cucumbers, Onions, and Tomatoes">
-                <option lable="8"value="Fannie Farmer's Classic Baked Macaroni & Cheese">
-                <option lable="9"value="Beth's Melt in Your Mouth Barbecue Ribs (Oven)">
-                <option lable="10"value="Deviled Eggs">
-                <option lable="11"value="Teena's Spicy Pesto Chicken and Pasta">
-                <option lable="12"value="Baked Chicken Nuggets Baked Chicken Nuggets">
-                <option lable="13"value="Crispy Rosemary Chicken and Fries Crispy Rosemary Chicken and Fries">
-                <option lable="14"value="Brown Sugar Meatloaf Brown Sugar Meatloaf">
-                <option lable="15"value="Beef Stew VI Beef Stew VI">
-                <option lable="16"value="Taco Casserole Taco Casserole">
-                <option lable="17"value="Chicken Stir-Fry Chicken Stir-Fry">
-                <option lable="18"value="Butternut Squash Soup II Butternut Squash Soup II">
-                <option lable="19"value="Triple-Dipped Fried Chicken Triple Dipped Fried Chicken">
-                <option lable="20"value="Baked Apricot Chicken">
+                <option value="Yes, Virginia There is a Great Meatloaf">
+                <option value="Easy Coleslaw Dressing">
+                <option value="Cornbread">
+                <option value="Microwave Chocolate Mug Brownie">
+                <option value="Best Oatmeal Cookies">
+                <option value="Low & Slow Oven Baked Ribs - Super Simple!">
+                <option value="Marinated Cucumbers, Onions, and Tomatoes">
+                <option value="Fannie Farmer's Classic Baked Macaroni & Cheese">
+                <option value="Beth's Melt in Your Mouth Barbecue Ribs (Oven)">
+                <option value="Deviled Eggs">
+                <option value="Teena's Spicy Pesto Chicken and Pasta">
+                <option value="Baked Chicken Nuggets Baked Chicken Nuggets">
+                <option value="Crispy Rosemary Chicken and Fries Crispy Rosemary Chicken and Fries">
+                <option value="Brown Sugar Meatloaf Brown Sugar Meatloaf">
+                <option value="Beef Stew VI Beef Stew VI">
+                <option value="Taco Casserole Taco Casserole">
+                <option value="Chicken Stir-Fry Chicken Stir-Fry">
+                <option value="Butternut Squash Soup II Butternut Squash Soup II">
+                <option value="Triple-Dipped Fried Chicken Triple Dipped Fried Chicken">
+                <option value="Baked Apricot Chicken">
             </datalist>
-        <input type="submit"value="Search">
+        <input type="submit" value="Search">
     </form>
     
-    <footer align="center">
+    <footer>
         <p>
             I will mark you with a red pen if you copy my stuff! 
         </p>
